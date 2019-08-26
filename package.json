@@ -1,0 +1,19 @@
+{
+  "name": "colourgame",
+  "version": "1.0.0",
+  "description": "A game to get more comfortable with the RGB color-space",
+  "main": "colourGame.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hurntre/colourGame.git"
+  },
+  "author": "Adefolaju Ariyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hurntre/colourGame/issues"
+  },
+  "homepage": "https://github.com/Hurntre/colourGame#readme"
+}
